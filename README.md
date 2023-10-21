@@ -6,4 +6,4 @@ Versión simplificada del famoso Titanic Challenge ---> friendly para estudiante
 -El dataset está preparado con features listos para ser usados, no es necesario tratar NaNs ni realizar conversiones.
 
 LIBRERIAS:
-numpy--matplotlib--pandas--seaborn--sklearn.
+numpy--matplotlib--pandas--seaborn--skilearn.
